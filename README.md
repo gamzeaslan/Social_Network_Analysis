@@ -1,5 +1,9 @@
 # SOCIAL NETWORK ANALYSIS PROJESİ
 
+* Projeye ait kodlar CodeFile dosyası içerisinde
+* Projeye ait dökümanlar Document içerisinde
+* Projede kullanılan veri seti DataSet içerisinde
+  
 ## Proje Amacı
 * Bu proje, sosyal ağ analizi üzerine odaklanarak, bir Graph Neural Network (GNN) modeli kullanarak sosyal ağdaki düğümler üzerinden bir öneri sistemi geliştirmeyi amaçlamaktadır. Bu sistem, ağa katılan herhangi bir kişi için en öncelikli 10 kişiyi tahmin edip öneren bir yapıya sahiptir.
 
