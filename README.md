@@ -12,7 +12,7 @@
 ** feat Dosyaları: Ağdaki her bir düğümün özelliklerini içerir. Bu özellikler, düğümlerin profilleriyle ilişkilendirilebilir ve kullanıcıların belirli özelliklerini temsil eder.
 ** featnames Dosyaları: Özellik isimlerini içerir ve özelliklerin neyi temsil ettiğini anlamaya yardımcı olur.
 
-##Proje Adımları
+## Proje Adımları
 * Veri Setinin İçe Aktarılması: Proje, SNAP platformundan indirilen veri setinin işlenmesiyle başlar.
 * Graf Yapısının Oluşturulması: İçe aktarılan veriler kullanılarak bir graf yapısı oluşturulur ve düğümler arasındaki bağlantılar belirlenir.
 * GNN Modelinin Oluşturulması ve Eğitilmesi: GNN modeli tanımlanır ve eğitilir. Model, düğümler arasındaki ilişkileri öğrenir ve öneri sistemi için kullanılır.
