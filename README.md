@@ -6,11 +6,11 @@
 ## Veri Seti Hakkında
 * Bu proje kapsamında kullanılan veri seti, Stanford Üniversitesi'nin SNAP (Stanford Network Analysis Project) platformundan alınmıştır. Veri seti, Facebook'a ait veriler içermekte ve sosyal ağ analizi için uygun yapıdadır. Veri setinde beş tip dosya bulunmaktadır:
 
-** circles Dosyaları: Ego kullanıcısının çemberlerini içerir. Her bir çember, kullanıcıların belirli bir grup içinde nasıl gruplandırıldığını gösterir ve sosyal ağdaki toplulukları veya grupları analiz etmek için kullanılır.
-** edges Dosyaları: Kullanıcılar arasındaki bağlantıları (kenarları) içerir. Her satır, iki kullanıcı arasındaki bir bağlantıyı temsil eder.
-** egofeat Dosyaları: Ego kullanıcısının özelliklerini içerir. Bu özellikler, ego kullanıcısının profiline özgüdür ve diğer kullanıcılarla karşılaştırmak için kullanılabilir.
-** feat Dosyaları: Ağdaki her bir düğümün özelliklerini içerir. Bu özellikler, düğümlerin profilleriyle ilişkilendirilebilir ve kullanıcıların belirli özelliklerini temsil eder.
-** featnames Dosyaları: Özellik isimlerini içerir ve özelliklerin neyi temsil ettiğini anlamaya yardımcı olur.
+  * circles Dosyaları: Ego kullanıcısının çemberlerini içerir. Her bir çember, kullanıcıların belirli bir grup içinde nasıl gruplandırıldığını gösterir ve sosyal ağdaki toplulukları veya grupları analiz etmek için kullanılır.
+  * edges Dosyaları: Kullanıcılar arasındaki bağlantıları (kenarları) içerir. Her satır, iki kullanıcı arasındaki bir bağlantıyı temsil eder.
+  * egofeat Dosyaları: Ego kullanıcısının özelliklerini içerir. Bu özellikler, ego kullanıcısının profiline özgüdür ve diğer kullanıcılarla karşılaştırmak için kullanılabilir.
+  * feat Dosyaları: Ağdaki her bir düğümün özelliklerini içerir. Bu özellikler, düğümlerin profilleriyle ilişkilendirilebilir ve kullanıcıların belirli özelliklerini temsil eder.
+  * featnames Dosyaları: Özellik isimlerini içerir ve özelliklerin neyi temsil ettiğini anlamaya yardımcı olur.
 
 ## Proje Adımları
 * Veri Setinin İçe Aktarılması: Proje, SNAP platformundan indirilen veri setinin işlenmesiyle başlar.
