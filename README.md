@@ -1,5 +1,6 @@
 # SOCIAL NETWORK ANALYSIS PROJESİ
 
+* Gamze Aslan - 210541001
 * Projeye ait kodlar **CodeFile** dosyası içerisinde
 * Projeye ait dökümanlar **Document** içerisinde
 * Projede kullanılan veri seti **DataSet** içerisinde
